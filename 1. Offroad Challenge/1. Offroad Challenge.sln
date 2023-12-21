@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. Offroad Challenge", "1. Offroad Challenge\1. Offroad Challenge.csproj", "{15AECDEF-2762-4A9C-BDC1-B2F61A5E3D60}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15AECDEF-2762-4A9C-BDC1-B2F61A5E3D60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15AECDEF-2762-4A9C-BDC1-B2F61A5E3D60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15AECDEF-2762-4A9C-BDC1-B2F61A5E3D60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15AECDEF-2762-4A9C-BDC1-B2F61A5E3D60}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F4BD1AF-AD3C-42C5-B3A6-84BFE47FA4AB}
+	EndGlobalSection
+EndGlobal
